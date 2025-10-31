@@ -95,6 +95,4 @@
 <a href="https://www.linkedin.com/in/diegosousaleite/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
-<a href="https://github.com/DiegoSousaLeite" target="blank">
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-</a>
+
